@@ -15,8 +15,8 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * :shipit: [Make your own R packages, be awesome!](https://github.com/skirmer/r_packages)  
 
 #### I also make packages now and then - some are proprietary and belong to my workplaces, but there's a fun one I can share:
-* :laughing: [Make your own mad libs in Python](https://github.com/skirmer/radlibs-py) (or just get it on pypi)
-* :joy: [Or in R!](https://github.com/skirmer/radlibs) (or use CRAN, it's there too)
+* :laughing: [radlibs-py: Make your own mad libs in Python](https://github.com/skirmer/radlibs-py) (or just get it on pypi)
+* :joy: [radlibs: Or in R!](https://github.com/skirmer/radlibs) (or use CRAN, it's there too)
 
 #### I do a day job too
 * :airplane: I'm the data science technical lead at [Journera](http://journera.com)
