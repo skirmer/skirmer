@@ -13,9 +13,13 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * :laughing: [Make your own mad libs in Python](https://github.com/skirmer/radlibs-py) (or just get it on pypi)
 * :joy: [Or in R!](https://github.com/skirmer/radlibs) (or use CRAN, it's there too)
 
+#### I do a day job too
+* :airplane: I'm the data science technical lead at [Journera](http://journera.com)
+* I used to work at: Uptake, the University of Chicago, and DePaul University
+
 #### :microphone: Contact me!
 
 As anyone who knows me will tell you, there's nothing I like more than talking about data sciency things.
-
 * :bird: Twitter: https://twitter.com/@data_stephanie
-* :link: LinkedIn: https://www.linkedin.com/in/skirmer/
+
+<a href="https://twitter.com/data_stephanie"><img src="https://img.shields.io/twitter/follow/data_stephanie?label=Twitter&style=social" alt="Twitter"></a>
