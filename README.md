@@ -13,6 +13,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * :movie_camera: [Use animation wisely with awesome results in gganimate](https://github.com/skirmer/animating_dataviz)  
 * :fist: [Data science can be better, sociology can help!](https://github.com/skirmer/satRdays_chicago_2019)
 * :shipit: [Make your own R packages, be awesome!](https://github.com/skirmer/r_packages)  
+* [You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://skirmer.github.io/events.html)
 
 #### I also make packages now and then - some are proprietary and belong to my workplaces, but there's a fun one I can share:
 * :laughing: [radlibs-py: Make your own mad libs in Python](https://github.com/skirmer/radlibs-py) (or just get it on pypi)
