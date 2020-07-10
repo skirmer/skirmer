@@ -2,6 +2,11 @@
 
 I'm a data scientist in Chicago, and you may know me from my public presentations about data science and data engineering! I love my work and I especially love sharing it with others.
 
+<p align="center">
+  <img src="https://github.com/skirmer/skirmer.github.io/blob/main/cat1.gif", height=200>
+</p>
+
+
 #### If you'd like to peek at some of the presentations I've done in the past, you're in luck! They're all here.
 * :twisted_rightwards_arrows: [Use Elasticsearch data storage with analytics workflows](https://github.com/skirmer/elastic_analytics)  
 * :rocket: [Make your data science team a well oiled machine with R](https://github.com/skirmer/team_collab)  
