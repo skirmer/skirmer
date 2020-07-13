@@ -29,4 +29,3 @@ As anyone who knows me will tell you, there's nothing I like more than talking a
 * :bird: Twitter: https://twitter.com/@data_stephanie
 
 <a href="https://twitter.com/data_stephanie"><img src="https://img.shields.io/twitter/follow/data_stephanie?label=Twitter&style=social" alt="Twitter"></a>
-<a href="https://github.com/skirmer"><img src="https://img.shields.io/github/followers/skirmer.svg?label=GitHub&style=social" alt="GitHub"></a>
