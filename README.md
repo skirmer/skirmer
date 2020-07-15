@@ -16,8 +16,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * [You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://skirmer.github.io/events.html)
 
 #### I also make packages now and then - some are proprietary and belong to my workplaces, but there's a fun one I can share:
-* :laughing: [radlibs-py: Make your own mad libs in Python](https://github.com/skirmer/radlibs-py) (or just get it on pypi)
-* :joy: [radlibs: Or in R!](https://github.com/skirmer/radlibs) (or use CRAN, it's there too)
+* :joy: [radlibs: for Python or R!](https://github.com/skirmer/radlibs) (or use CRAN/pypi, it's there too)
 
 #### I do a day job too
 * :airplane: I'm the data science technical lead at [Journera](http://journera.com)
