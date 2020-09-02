@@ -22,6 +22,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 
 #### I do a day job too
 * :airplane: I'm the data science technical lead at [Journera](http://journera.com)
+* Starting in late September 2020 I will be joining Saturn Cloud as a senior data scientist!
 * I used to work at: Uptake, the University of Chicago, and DePaul University
 
 #### :microphone: Contact me!
