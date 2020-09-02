@@ -8,6 +8,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 
 
 #### If you'd like to peek at some of the presentations I've done in the past, you're in luck! They're all here.
+* :deciduous_tree: [Branching Out into Isolation Forests: Tree Based Anomaly Detection](https://github.com/skirmer/isolation_forests)
 * :cloud: [Learn Airflow and Redshift for ML Uses](https://github.com/skirmer/airflow_plus_redshift)
 * :twisted_rightwards_arrows: [Use Elasticsearch data storage with analytics workflows](https://github.com/skirmer/elastic_analytics)  
 * :rocket: [Make your data science team a well oiled machine with R](https://github.com/skirmer/team_collab)  
