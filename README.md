@@ -21,7 +21,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * :joy: [radlibs: for Python or R!](https://github.com/skirmer/radlibs) (or use CRAN/pypi, it's there too)
 
 #### I do a day job too
-* :space_invader: I am a senior data scientist at Saturn Cloud
+* :space_invader: I am a senior data scientist at [Saturn Cloud](https://www.saturncloud.io)
 * I used to work at: [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
 
 #### :microphone: Contact me!
