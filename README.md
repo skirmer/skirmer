@@ -22,6 +22,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 
 #### I also make packages now and then - some are proprietary and belong to my workplaces, but there's a fun one I can share:
 * :joy: [radlibs: for Python or R!](https://github.com/skirmer/radlibs) (or use CRAN/pypi, it's there too)
+* :fire: [dask-pytorch](https://github.com/saturncloud/dask-pytorch) (pypi) Do pytorch on multi-machine clusters!
 
 #### I do a day job too
 * :space_invader: I am a senior data scientist at [Saturn Cloud](https://www.saturncloud.io)
