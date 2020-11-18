@@ -20,7 +20,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 #### Tutorials! I walk you through tasks step by step in these notebooks.
 * :dog: [Pytorch tasks on GPU Clusters, using the Stanford Dogs dataset](https://github.com/saturncloud/saturn-cloud-examples/tree/main/pytorch-demo)
 
-#### I also make packages now and then - some are proprietary and belong to my workplaces, but there's a fun one I can share:
+#### I also make packages now and then - some are proprietary and belong to my workplaces, but there's some I can share:
 * :joy: [radlibs: for Python or R!](https://github.com/skirmer/radlibs) (or use CRAN/pypi, it's there too)
 * :fire: [dask-pytorch](https://github.com/saturncloud/dask-pytorch) (pypi) Do pytorch on multi-machine clusters!
 
