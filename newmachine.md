@@ -25,9 +25,11 @@ Use `brew`
 - [ ] R `r`
 - [ ] tree `tree` (view nested files more nicely)
 - [ ] htop `htop` (active process viewer)
+- [ ] npm `node`
 
 Other
 
+- [ ] doctoc (npm install -g doctoc)
 - [ ] miniconda ([link](https://docs.conda.io/en/latest/miniconda.html))
 
 pipx

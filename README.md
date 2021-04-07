@@ -8,6 +8,9 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 
 
 #### If you'd like to peek at some of the presentations I've done in the past, you're in luck! They're all here.
+* :wrench: [Tutorial Workshop on Functions in R](https://github.com/skirmer/functions_r)   
+* :art: [New Python Data Visualization Tools: Beyond Matplotlib and Seaborn](https://github.com/skirmer/new-py-dataviz) 
+* :bullettrain_side: [Scaling Up PyTorch with GPU Cluster Computing](https://github.com/skirmer/gpu_pytorch)
 * :deciduous_tree: [Branching Out into Isolation Forests: Tree Based Anomaly Detection](https://github.com/skirmer/isolation_forests)
 * :cloud: [Learn Airflow and Redshift for ML Uses](https://github.com/skirmer/airflow_plus_redshift)
 * :twisted_rightwards_arrows: [Use Elasticsearch data storage with analytics workflows](https://github.com/skirmer/elastic_analytics)  
@@ -17,13 +20,13 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * :shipit: [Make your own R packages, be awesome!](https://github.com/skirmer/r_packages)  
 * [You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://skirmer.github.io/events.html)
 
-#### I also make packages now and then - some are proprietary and belong to my workplaces, but there's a fun one I can share:
+#### I also work on packages now and then - some are proprietary and belong to my workplaces, but there's some I can share:
 * :joy: [radlibs: for Python or R!](https://github.com/skirmer/radlibs) (or use CRAN/pypi, it's there too)
+* :fire: [dask-pytorch-ddp](https://github.com/saturncloud/dask-pytorch-ddp) a Saturn Cloud open source project I contribute to. Do pytorch on multi-machine clusters! (pypi) 
 
 #### I do a day job too
-* :space_invader: Starting in late September 2020 I will be joining Saturn Cloud as a senior data scientist!
-* :airplane: I'm the data science technical lead at [Journera](http://journera.com)
-* I used to work at: Uptake, the University of Chicago, and DePaul University
+* :space_invader: I am a senior data scientist at [Saturn Cloud](https://www.saturncloud.io)
+* I used to work at: [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
 
 #### :microphone: Contact me!
 
