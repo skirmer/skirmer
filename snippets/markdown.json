@@ -20,23 +20,26 @@
 			"$2"
 			"```"
 		],
-		"description": "Python markdown chunk"
+		"description": "Inserts python markdown chunk and places cursor inside"
 	}
 
 	"Switch from md to hugo link": {
 				"prefix": "hugolink",
-				"body": ["${TM_SELECTED_TEXT/^.+$/{{< ref \"$0\" >}}/g}"]
+				"body": ["${TM_SELECTED_TEXT/^.+$/{{< ref \"$0\" >}}/g}"],
+				"description": "Select content of link inside markdown link, this converts to hugo shortlink. EG [text](link) - select piece inside parens."
 	}
 
-	"Add R Style commenting-out to front of line": {
+	"Add R Style commenting-out to front of lines": {
 		"prefix": "rstyle-comment",
-		"body": ["${TM_SELECTED_TEXT/^.+$/#> $0/g}"]
+		"body": ["${TM_SELECTED_TEXT/.+/#> $0/g}"],
+		"description": "Select as many lines as desired, this will add #> to the beginning of each."
 }
 
 	"insert aliases bit":{
 		"prefix":"aliasline",
 		"body": ["aliases:"
-				"  - ../$2"]
+				"  - ../$2"],
+		"description": "Adds alias front matter to the top of hugo md file and places cursor where you will fill in the old page."
 	}
 }
 
