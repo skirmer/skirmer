@@ -29,11 +29,19 @@
 				"description": "Select content of link inside markdown link, this converts to hugo shortlink. EG [text](link) - select piece inside parens."
 	}
 
+	"Switch from md to external link": {
+		"prefix": "extlink",
+		"body": ["${TM_SELECTED_TEXT/\\[(.*?)\\]\\((.*?)\\)/ <a href=\"$2\"  target='_blank' rel='noopener'> $1 <\\/a> /g}"],
+		"description": "Select content of link inside markdown link, this converts to hugo shortlink. EG [text](link) - select piece inside parens."
+}
+
+
 	"Add R Style commenting-out to front of lines": {
 		"prefix": "rstyle-comment",
 		"body": ["${TM_SELECTED_TEXT/.+/#> $0/g}"],
 		"description": "Select as many lines as desired, this will add #> to the beginning of each."
 }
+
 
 	"insert aliases bit":{
 		"prefix":"aliasline",
