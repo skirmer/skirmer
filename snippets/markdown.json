@@ -31,17 +31,15 @@
 
 	"Switch from md to external link": {
 		"prefix": "extlink",
-		"body": ["${TM_SELECTED_TEXT/\\[(.*?)\\]\\((.*?)\\)/ <a href=\"$2\"  target='_blank' rel='noopener'> $1 <\\/a> /g}"],
+		"body": ["${TM_SELECTED_TEXT/\\[(.*?)\\]\\((.*?)\\)/ <a href=\"$2\" target='_blank' rel='noopener'>$1<\\/a>/g}"],
 		"description": "Select markdown link, this converts to external opening link. EG [text](link) - select all."
 }
-
 
 	"Add R Style commenting-out to front of lines": {
 		"prefix": "rstyle-comment",
 		"body": ["${TM_SELECTED_TEXT/.+/#> $0/g}"],
 		"description": "Select as many lines as desired, this will add #> to the beginning of each."
 }
-
 
 	"insert aliases bit":{
 		"prefix":"aliasline",
