@@ -40,6 +40,17 @@
 		"body": ["${TM_SELECTED_TEXT/.+/#> $0/g}"],
 		"description": "Select as many lines as desired, this will add #> to the beginning of each."
 }
+	"Add class to HTML IMG tag": {
+		"prefix": "img-html-class",
+		"body": ["${TM_SELECTED_TEXT/<img src=\"(.*?)\" alt-text=\"(.*?)\" .*?>/<img src=\"$1\" alt-text=\"$2\" class=\"doc-image\">/g}"],
+		"description": "From a normal HTML image tag, this formats and adds our image class."
+}
+
+	"Md image to HTML image": {
+		"prefix": "img-to-html",
+		"body": ["${TM_SELECTED_TEXT/\\!\\[(.*?)\\]\\((.*?)\\)/<img src=\"$2\" alt-text=\"$1\" class=\"doc-image\">/g}"],
+		"description": "From a normal HTML image tag, this formats and adds our image class."
+	}
 
 	"insert aliases bit":{
 		"prefix":"aliasline",
