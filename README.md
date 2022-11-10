@@ -8,6 +8,7 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 
 
 #### If you'd like to peek at some of the presentations I've done in the past, you're in luck! They're all here.
+* 🌐 [Setting Healthy Boundaries: Generating Geofences at Scale with Machine Learning](https://github.com/skirmer/setting_healthy_boundaries)
 * :books: [Deploying ML Models with Flask or Voila](https://github.com/skirmer/college_scorecard) 
 * :wrench: [Tutorial Workshop on Functions in R](https://github.com/skirmer/functions_r)   
 * :art: [New Python Data Visualization Tools: Beyond Matplotlib and Seaborn](https://github.com/skirmer/new-py-dataviz) 
