@@ -29,10 +29,3 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 #### I do a day job too
 * 🚚: I am a staff data scientist at [project44](https://www.project44.com/).
 * I used to work at: [Saturn Cloud](https://www.saturncloud.io), [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
-
-#### :microphone: Contact me!
-
-As anyone who knows me will tell you, there's nothing I like more than talking about data sciency things.
-* :bird: Twitter: https://twitter.com/@data_stephanie
-
-<a href="https://twitter.com/data_stephanie"><img src="https://img.shields.io/twitter/follow/data_stephanie?label=Twitter&style=social" alt="Twitter"></a>
