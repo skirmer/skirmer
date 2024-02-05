@@ -27,5 +27,5 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 * :fire: [dask-pytorch-ddp](https://github.com/saturncloud/dask-pytorch-ddp) a Saturn Cloud open source project I contribute to. Do pytorch on multi-machine clusters! (pypi) 
 
 #### I do a day job too
-* 🚚: I am a staff data scientist at [project44](https://www.project44.com/).
-* I used to work at: [Saturn Cloud](https://www.saturncloud.io), [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
+* 🚚: I am a senior machine learning engineer at [DataGrail](https://www.datagrail.io/).
+* I used to work at: [project44](https://www.project44.com/), [Saturn Cloud](https://www.saturncloud.io), [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
