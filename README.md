@@ -8,17 +8,18 @@ I'm a data scientist in Chicago, and you may know me from my public presentation
 
 
 #### If you'd like to peek at some of the presentations I've done in the past, you're in luck! They're all here.
+* 💼 [Decoding Data Science Roles: A guide to the different jobs data scientists (really) do](https://github.com/skirmer/ds_careers)   
 * 🌐 [Setting Healthy Boundaries: Generating Geofences at Scale with Machine Learning](https://github.com/skirmer/setting_healthy_boundaries)
-* :books: [Deploying ML Models with Flask or Voila](https://github.com/skirmer/college_scorecard) 
-* :wrench: [Tutorial Workshop on Functions in R](https://github.com/skirmer/functions_r)   
-* :art: [New Python Data Visualization Tools: Beyond Matplotlib and Seaborn](https://github.com/skirmer/new-py-dataviz) 
-* :bullettrain_side: [Scaling Up Deep Learning with GPU Cluster Computing](https://github.com/skirmer/gpu_pytorch)
-* :deciduous_tree: [Branching Out into Isolation Forests: Tree Based Anomaly Detection](https://github.com/skirmer/isolation_forests)
-* :cloud: [Learn Airflow and Redshift for ML Uses](https://github.com/skirmer/airflow_plus_redshift)
-* :twisted_rightwards_arrows: [Use Elasticsearch data storage with analytics workflows](https://github.com/skirmer/elastic_analytics)  
-* :rocket: [Make your data science team a well oiled machine with R](https://github.com/skirmer/team_collab)  
-* :movie_camera: [Use animation wisely with awesome results in gganimate](https://github.com/skirmer/animating_dataviz)  
-* :fist: [Data science can be better, sociology can help!](https://github.com/skirmer/satRdays_chicago_2019)
+* 📚: [Deploying ML Models with Flask or Voila](https://github.com/skirmer/college_scorecard) 
+* 🔧: [Tutorial Workshop on Functions in R](https://github.com/skirmer/functions_r)   
+* 🎨: [New Python Data Visualization Tools: Beyond Matplotlib and Seaborn](https://github.com/skirmer/new-py-dataviz) 
+* 🚄: [Scaling Up Deep Learning with GPU Cluster Computing](https://github.com/skirmer/gpu_pytorch)
+* 🌳: [Branching Out into Isolation Forests: Tree Based Anomaly Detection](https://github.com/skirmer/isolation_forests)
+* ☁️: [Learn Airflow and Redshift for ML Uses](https://github.com/skirmer/airflow_plus_redshift)
+* 🔀: [Use Elasticsearch data storage with analytics workflows](https://github.com/skirmer/elastic_analytics)  
+* 🚀: [Make your data science team a well oiled machine with R](https://github.com/skirmer/team_collab)  
+* 🎥: [Use animation wisely with awesome results in gganimate](https://github.com/skirmer/animating_dataviz)  
+* ✊: [Data science can be better, sociology can help!](https://github.com/skirmer/satRdays_chicago_2019)
 * :shipit: [Make your own R packages, be awesome!](https://github.com/skirmer/r_packages)  
 * [You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://skirmer.github.io/events.html)
 
