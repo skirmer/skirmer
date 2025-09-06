@@ -20,7 +20,6 @@ I'm a machine learning engineer in Chicago, and you may know me from my public p
 * 🚀: [Make your data science team a well oiled machine with R](https://github.com/skirmer/team_collab)  
 * 🎥: [Use animation wisely with awesome results in gganimate](https://github.com/skirmer/animating_dataviz)  
 * ✊: [Data science can be better, sociology can help!](https://github.com/skirmer/satRdays_chicago_2019)
-* :shipit: [Make your own R packages, be awesome!](https://github.com/skirmer/r_packages)  
 * [You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://www.stephaniekirmer.com/speaking/)
 
 #### I also work on packages now and then - some are proprietary and belong to my workplaces, but there's some I can share:
@@ -28,5 +27,5 @@ I'm a machine learning engineer in Chicago, and you may know me from my public p
 * :fire: [dask-pytorch-ddp](https://github.com/saturncloud/dask-pytorch-ddp) a Saturn Cloud open source project I contribute to. Do pytorch on multi-machine clusters! (pypi) 
 
 #### I do a day job too
-* 🤐: I am a senior machine learning engineer at [DataGrail](https://www.datagrail.io/).
+* 🤐: I am a staff machine learning engineer at [DataGrail](https://www.datagrail.io/).
 * I used to work at: [project44](https://www.project44.com/), [Saturn Cloud](https://www.saturncloud.io), [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
