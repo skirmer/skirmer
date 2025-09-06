@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a data scientist in Chicago, and you may know me from my public presentations about data science and data engineering! I love my work and I especially love sharing it with others.
+I'm a machine learning engineer in Chicago, and you may know me from my public presentations about data science, machine learning, and data engineering! I love my work and I especially love sharing it with others.
 
 <p align="center">
   <img src="https://github.com/skirmer/skirmer.github.io/blob/main/cat1.gif", height=300, width=300>
