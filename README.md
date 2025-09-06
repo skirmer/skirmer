@@ -9,6 +9,18 @@ I'm a machine learning engineer in Chicago, and you may know me from my public p
 #### Writing
 I write a [monthly column on Towards Data Science](https://towardsdatascience.com/author/s-kirmer/) about AI, machine learning, and society. Please [subscribe via RSS to get it emailed to you](https://medium.com/feed/@s.kirmer)!
 
+Here's some highlights I recommend to get started:
+* [Machine Learning’s Public Perception Problem](https://www.stephaniekirmer.com/writing/machinelearningspublicperceptionproblem/)
+* [What Does It Mean When Machine Learning Makes a Mistake?
+](https://www.stephaniekirmer.com/writing/whatdoesitmeanwhenmachinelearningmakesamistake/)
+* [How Human Labor Enables Machine Learning](https://www.stephaniekirmer.com/writing/howhumanlaborenablesmachinelearning/)
+* [How Do We Know if AI Is Smoke and Mirrors?
+](https://www.stephaniekirmer.com/writing/howdoweknowifaiissmokeandmirrors/)
+* [Seeing Our Reflection in LLMs](https://www.stephaniekirmer.com/writing/seeingourreflectioninllms/)
+* [Economics of Generative AI](https://www.stephaniekirmer.com/writing/economicsofgenerativeai/)
+* [Evaluating LLMs for Inference, or Lessons from Teaching for Machine Learning
+](https://www.stephaniekirmer.com/writing/evaluatingllmsforinferenceorlessonsfromteachingformachinelearning/)
+
 #### Talking
 I also [give talks all over the place](https://www.stephaniekirmer.com/speaking/), and I usually make the decks available here on github. Here's a few!
 * 🏢 [Just Do Something With AI: Bridging the Business Communication Gap for ML Practitioners](https://github.com/skirmer/just-do-something-with-ai)
@@ -20,7 +32,8 @@ I also [give talks all over the place](https://www.stephaniekirmer.com/speaking/
 * 🚄: [Scaling Up Deep Learning with GPU Cluster Computing](https://github.com/skirmer/gpu_pytorch)
 * 🌳: [Branching Out into Isolation Forests: Tree Based Anomaly Detection](https://github.com/skirmer/isolation_forests) 
 * ✊: [Data science can be better, sociology can help!](https://github.com/skirmer/satRdays_chicago_2019)
-* [You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://www.stephaniekirmer.com/speaking/)
+
+[You can see my back history of talks as well if you're thinking "wait, what conference was it where I saw her do that thing?"](https://www.stephaniekirmer.com/speaking/)
 
 #### I do a day job too
 * 🤐: I am a staff machine learning engineer at [DataGrail](https://www.datagrail.io/).
