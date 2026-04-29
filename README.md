@@ -23,6 +23,7 @@ Here's some highlights I recommend to get started:
 
 #### Talking
 I also [give talks all over the place](https://www.stephaniekirmer.com/speaking/), and I usually make the decks available here on github. Here's a few!
+* 📝 [Customizing LLM Evaluation at Scale](https://github.com/skirmer/customizing-llm-evals)
 * 🏢 [Just Do Something With AI: Bridging the Business Communication Gap for ML Practitioners](https://github.com/skirmer/just-do-something-with-ai)
 * 💼 [Decoding Data Science Roles: A guide to the different jobs data scientists (really) do](https://github.com/skirmer/ds_careers)   
 * 🌐 [Setting Healthy Boundaries: Generating Geofences at Scale with Machine Learning](https://github.com/skirmer/setting_healthy_boundaries)
