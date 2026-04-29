@@ -38,4 +38,4 @@ I also [give talks all over the place](https://www.stephaniekirmer.com/speaking/
 
 #### I do a day job too
 * 🤐: I am a staff machine learning engineer at [Nebulock](https://www.nebulock.io/).
-* I used to work at: [DataGrail](https://www.datagrail.io), [project44](https://www.project44.com/), [Saturn Cloud](https://www.saturncloud.io), [Journera](http://journera.com), Uptake, the University of Chicago, and DePaul University
+* I used to work at: [DataGrail](https://www.datagrail.io), [project44](https://www.project44.com/), [Saturn Cloud](https://www.saturncloud.io), Journera, Uptake, the University of Chicago, and DePaul University
